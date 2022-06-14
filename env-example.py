@@ -4,5 +4,6 @@ database = {
     'password': '',
     'port': '',
     'database': '',
-    'api_key': ''
+    'api_key': '',
+    'config':'',
 }
